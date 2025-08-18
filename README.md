@@ -58,6 +58,8 @@ It will ask for authentication via **pkexec** when toggling.
 * Detect and error out if /etc/resolv.conf is handled by another system.
 * Future-proof for gtk4
 * Add flag to auth immediately at launch, negating the need for auth every toggle
+* Windows version (are network connection options exposed via win api?)
+* Pack assets in executable
 
 ### License
 
