@@ -1,6 +1,7 @@
 # DNS Toggle
 
 ![dns toggle logo](https://cdn.ittykeys.com/dns-toggle.png)
+![dns toggle screenshot](https://cdn.ittykeys.com/dns-toggle-scr.png)
 
 ## Description
 
