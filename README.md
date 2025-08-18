@@ -39,7 +39,7 @@ make
 
 ### Run
 
-Please backup your precious /etc/resolve.conf before running:
+Please backup your precious /etc/resolv.conf before running:
 
 ```bash
 sudo cp /etc/resolv.conf /etc/resolv.conf.bk
