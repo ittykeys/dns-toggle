@@ -1,10 +1,11 @@
-# Template
+# DNS Toggle
 
-Template
+![dns toggle logo](https://cdn.ittykeys.com/dns-toggle.png)
 
-**Clone the repository (ssh):**
+## Description
 
-```bash
-git clone git@oregon01:global/template.git
-cd template
-```
+Simple GUI toggle for /etc/resolv.conf
+
+## License
+
+This project is licensed under the GNU General Public License - see the [License file](LICENSE) file for details.
