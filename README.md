@@ -8,7 +8,7 @@ Simple GUI toggle for /etc/resolv.conf for us old dogs still handling DNS that w
 
 ### Features
 
-* Toggling between 2 main DNS server
+* Toggling between 2 main DNS servers
 * Toggle for a 3rd DNS server that overrides the 2 main (useful for VPN etc)
 * Handles empty /etc/resolv.conf and creates it when we toggle
 * Should leave alone things like domain, search and comments
@@ -38,6 +38,14 @@ make
 ```
 
 ### Run
+
+Please backup your precious /etc/resolve.conf before running:
+
+```bash
+sudo cp /etc/resolv.conf /etc/resolv.conf.bk
+```
+
+Then:
 
 ```bash
 ./dns-toggle
