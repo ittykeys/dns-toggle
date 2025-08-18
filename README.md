@@ -57,6 +57,7 @@ It will ask for authentication via **pkexec** when toggling.
 * Detect and re-toggle previous state (and toggle state) properly after 3rd dns toggled (especially at startup).
 * Detect and error out if /etc/resolv.conf is handled by another system.
 * Future-proof for gtk4
+* Add flag to auth immediately at launch, negating the need for auth every toggle
 
 ### License
 
