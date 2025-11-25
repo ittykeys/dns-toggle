@@ -61,6 +61,8 @@ It will ask for authentication via **pkexec** when toggling.
 * Add flag to auth immediately at launch, negating the need for auth every toggle
 * Windows version (are network connection options exposed via win api?)
 * Pack assets in executable
+* Don't block main gui thread for auth (#3500)
+* KDE widget (#3480)
 
 ### License
 
