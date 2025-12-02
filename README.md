@@ -64,6 +64,7 @@ It will ask for authentication via **pkexec** when toggling.
 * Don't block main gui thread for auth (#3500)
 * KDE widget (#3480)
 * Option to modify DNS at startup (#3523)
+* Mobile app (#3538)
 
 ### License
 
