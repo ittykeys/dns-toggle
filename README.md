@@ -65,6 +65,7 @@ It will ask for authentication via **pkexec** when toggling.
 * KDE widget (#3480)
 * Option to modify DNS at startup (#3523)
 * Mobile app (#3538)
+* Temp file while active (#3544)
 
 ### License
 
